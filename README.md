@@ -21,4 +21,4 @@ MadZip provides an efficient and user-friendly way to compress files using a ful
 - Support for multiple file types and formats  
 - Adjustable compression settings
 
-![](https://www.hunter-baker.com/resources/images/projects/mad-zip.png)
+![](https://www.hunter-baker.com/assets/projects/mad_zip/mad-zip.png)
